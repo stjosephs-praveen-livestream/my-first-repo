@@ -1,1 +1,3 @@
 Hello everyone, I am learning Git & GitHub.
+
+Linke to Git 101 YouTube live => https://www.youtube.com/watch?v=8sNdemsqJME
